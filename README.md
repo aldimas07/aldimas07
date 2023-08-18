@@ -10,9 +10,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
