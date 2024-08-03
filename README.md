@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aldimas and I'am final years student. Love to turn coffee into code.</h2>
+<h2 align="left">Hi 👋! My name is Aldimas. Learning how to solve problem with code also love to turn coffee into code.</h2>
 
 ###
 
